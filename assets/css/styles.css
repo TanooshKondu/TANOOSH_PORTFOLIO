@@ -315,6 +315,7 @@ img {
     border: none;
     outline: none;
     font-size: var(--normal-font-size);
+    background-color: rgb(92, 241, 78);
     cursor: pointer;
     margin-left: auto;
     margin-right: 4rem;
