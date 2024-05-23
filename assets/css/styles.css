@@ -299,11 +299,23 @@ img {
 .skills__js {
     width: 65%;
 }
-.skills__ux {
-    width: 85%;
+.skills__py {
+    width: 75%;
 }
 .skills__img {
     border-radius: 0.5rem;
+}
+.skills__react{
+    width: 75%;
+}
+.skills__node{
+    width: 80%;
+}
+.skills__sql{
+    width: 70%;
+}
+.skills__mongodb{
+    width: 65%;
 }
 
 /* ===== WORK =====*/
