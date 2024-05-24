@@ -1,7 +1,7 @@
-[![MasterHead](https://camo.githubusercontent.com/371a3bbae1297d47d50006f91fdc0f51f0060b62dbbddbdba1b1b1438bc0f80d/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)](https://rishavchanda.io)
+![MasterHead](https://camo.githubusercontent.com/371a3bbae1297d47d50006f91fdc0f51f0060b62dbbddbdba1b1b1438bc0f80d/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)
 <h1 align="center">Hi 👋, I'm Tanoosh Kondu</h1>
 <h3 align="center">A passionate Full-Stack Web developer from India</h3>
-<img align="right" alt="Coding" wodth="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanooshkondu&label=Profile%20views&color=0e75b6&style=flat" alt="tanooshkondu" /> </p>
@@ -23,12 +23,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tanoosh-kondu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanooshkondu" height="30" width="40" /></a>
-<a href="https://fb.com/tanooshkondu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanooshkondu" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100075140466668" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanooshkondu" height="30" width="40" /></a>
 <a href="https://instagram.com/i_m_tanoosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_tanoosh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kondutanoosh0414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kondutanoosh04" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@kondutanoosh0414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kondutanoosh04" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/21a31a4239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21a31a4239" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tanooshkondu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanoosh kondu" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/tanooshkondu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanooshkondu" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/TanooshKondu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanooshkondu" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kondutan6ufm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanooshkondu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
