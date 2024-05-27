@@ -61,4 +61,3 @@ sr.reveal('.skills__data, .work__img, .contact__input',{interval: 200});
 //
 //
 //
-//
