@@ -58,3 +58,6 @@ sr.reveal('.skills__data, .work__img, .achievements__img, .contact__input',{inte
 //
 //
 //
+//
+///
+///
