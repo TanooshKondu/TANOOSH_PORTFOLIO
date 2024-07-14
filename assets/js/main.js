@@ -57,3 +57,4 @@ sr.reveal('.home__social-icon',{ interval: 200});
 sr.reveal('.skills__data, .work__img, .achievements__img, .contact__input',{interval: 200});
 //
 //
+//
